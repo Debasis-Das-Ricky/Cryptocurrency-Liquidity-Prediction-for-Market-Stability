@@ -18,29 +18,6 @@ Key Objectives:
   Prediction & Reporting: Generates predictions, analyzes error, and provides professional reporting for decision making
   Production Ready: Modular code and ready-to-export results for real-world adaptation
 
-📁 Repository Structure:
-
-  cryptocurrency-liquidity-prediction/
-├── notebooks/
-│   └── Cryptocurrency_Liquidity_Prediction.ipynb
-├── data/
-│   ├── coin_gecko_2022-03-16.csv
-│   └── coin_gecko_2022-03-17.csv
-├── results/
-│   ├── model_evaluation_results.csv
-│   ├── predictions.csv
-│   ├── processed_features.csv
-│   └── feature_importance.csv
-├── reports/
-│   ├── Project_Summary_Report.txt
-│   ├── EDA_Report.md
-│   ├── HLD_Document.md
-│   └── LLD_Document.md
-├── models/
-│   └── best_model.pkl
-└── README.md
-
-
 🛠️ Technologies Used
    Python (pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn, plotly)
    Google Colab for interactive development and analysis
